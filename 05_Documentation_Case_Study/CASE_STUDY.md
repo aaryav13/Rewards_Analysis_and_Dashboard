@@ -34,7 +34,7 @@ The number that *does* matter: women make up 53% of Junior headcount but only 36
 1. **Investigate two units first** — plan mix and vendor premium rates in Finance–Hyderabad and Sales–Gurugram. Best cost-to-effort ratio: 54 employees combined, 8–11 points above benchmark.
 2. **Don't adjust salary bands on equity grounds** — band-controlled gaps run in both directions within a normal range; a pay correction here would spend budget on a problem the data doesn't show.
 3. **Open a separate review of the Senior → Lead promotion pattern by gender** — this is where the real equity exposure sits, and it's an HR process question, not a compensation one.
-4. **Formalize a tier-to-grade policy — Capping Junior/Mid eligibility at Silver would cut an estimated ₹4.89L/month (~₹58.7L/year) in premium spend currently happening by default, not by policy.
+4. **Formalize a tier-to-grade policy8* — Capping Junior/Mid eligibility at Silver would cut an estimated ₹4.89L/month (~₹58.7L/year) in premium spend currently happening by default, not by policy.
 
 ## Repo Structure
 
